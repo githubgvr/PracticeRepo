@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "VenkatRepotest", "VenkatRepotest\", "{61640DFD-A502-444D-B294-E4B184C99E07}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_64358"
+		Debug.AspNetCompiler.PhysicalPath = "VenkatRepotest\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64358\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_64358"
+		Release.AspNetCompiler.PhysicalPath = "VenkatRepotest\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_64358\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "64358"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61640DFD-A502-444D-B294-E4B184C99E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61640DFD-A502-444D-B294-E4B184C99E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {866FBEFA-785D-49CE-8735-B2F40532CA51}
+	EndGlobalSection
+EndGlobal
